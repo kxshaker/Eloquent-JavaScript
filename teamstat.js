@@ -20,7 +20,6 @@ const convertToBaby = (array)=>{
     return babified;
 }
 
-
 const declineEverything = array =>{
     array.forEach(politelyDecline);
   };
