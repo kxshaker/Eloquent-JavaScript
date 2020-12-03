@@ -62,7 +62,6 @@ const shoutGreetings = arr =>{
 
   */
 
-
   // Write your code here:
 const dogFactory = (name, breed, weight)=>{
     return {
