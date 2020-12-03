@@ -34,7 +34,6 @@ const square = array =>{
     return squrt;
 }
 
-
 const shoutGreetings = arr =>{
     let newArr = arr.map(string => string.toUpperCase())
   
