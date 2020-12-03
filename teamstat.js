@@ -28,7 +28,6 @@ const declineEverything = array =>{
     array.forEach(word=>console.log(`Ok, I guess I will eat some ${word}.`));
   };
 
-
 const square = array =>{
 
     let squrt = array.map(num=> num*num);
