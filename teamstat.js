@@ -6,7 +6,6 @@ const reverseArray = (array) => {
     return revarry;
 }
 
-
 const greetAliens = (array) => {
     for (word of array) {
         console.log(`Oh powerful ${word}, we humans offer our unconditional surrender!`);
